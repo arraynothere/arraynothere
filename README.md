@@ -42,8 +42,8 @@ I am a passionate developer specializing in low-level programming, custom mobile
 
 | | |
 | :--- | :--- |
-| **Handle** | Array (`arraynothere`) |
-| **Title** | Not Sepuh and Full-Stack Developer |
+| **Handle** | Array |
+| **Title** | Full-Stack Developer |
 | **Disciplines** | Software Engineering, Reverse Engineering, Machine Learning, System Programming |
 | **Primary Environment** | Android, Linux, Windows |
 | **Mindset** | First principles, build from scratch, understand the layer below |
@@ -156,7 +156,7 @@ Pendekatan saya terhadap reverse engineering bersifat metodis: kumpulkan informa
 | **Network & Protocol** | Capture dan analisis traffic, reverse protocol kustom, inspeksi TLS pada lingkungan uji | ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=flat-square&logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?style=flat-square&logo=burpsuite&logoColor=white) ![mitmproxy](https://img.shields.io/badge/mitmproxy-%23555555.svg?style=flat-square&logo=python&logoColor=white) |
 | **Scripting & Automation** | Otomasi analisis, parser format file, tooling kustom | ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white) |
 
-**Metodologi singkat**
+**Metodologi**
 
 ```text
 01. Recon        -> identifikasi format, arsitektur, packer, dan dependensi
@@ -209,40 +209,6 @@ Fokus saya pada machine learning bersifat praktis: data yang bersih, eksperimen 
 
 ---
 
-### Development Environment
-
-<div align="center">
-
-| Komponen | Pilihan |
-| :--- | :--- |
-| **Mobile Workstation** | Android dengan Termux, toolchain native, dan editor berbasis terminal |
-| **Desktop** | Windows dengan WSL, PowerShell, dan Windows Terminal |
-| **Linux** | Distribusi Debian dan turunannya untuk pengembangan dan analisis |
-| **Editor** | VS Code, Neovim, Android Studio, IntelliJ IDEA |
-| **Version Control** | Git dan GitHub dengan alur kerja berbasis branch dan pull request |
-
-</div>
-
-```bash
-$ whoami
-array
-
-$ cat /etc/profile.d/array.sh
-export ROLE="Software Engineer | Reverse Engineer | ML Practitioner"
-export MINDSET="first-principles"
-export STACK="C:C++:Kotlin:Python:TypeScript:Lua"
-export FOCUS="systems:mobile:security:ml"
-export STATUS="active-everyday"
-
-$ ./build --from-scratch --no-shortcuts
-[ok] understand the problem
-[ok] design the architecture
-[ok] implement and measure
-[ok] document and ship
-```
-
----
-
 ### GitHub Stats and Streak
 
 <div align="center">
@@ -253,13 +219,13 @@ $ ./build --from-scratch --no-shortcuts
 
 </div>
 
-#### Contribution Activity
+#### Contribution
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arraynothere&theme=react-dark&bg_color=24292e&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=6D28D9&hide_border=true&radius=8" alt="Contribution Graph" width="100%" />
 </div>
 
-#### Language Breakdown Variants
+#### Language Breakdown
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=arraynothere&theme=material-palenight&layout=donut&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages Donut" />
@@ -273,7 +239,7 @@ $ ./build --from-scratch --no-shortcuts
 
 ---
 
-### Realtime Indicators
+### Indicators
 
 <div align="center">
 
@@ -299,82 +265,7 @@ $ ./build --from-scratch --no-shortcuts
 
 ---
 
-### Learning Path
-
-<details>
-<summary><b>Systems and Low-Level</b></summary>
-<br/>
-
-- Manajemen memori, alokasi, dan layout struktur data
-- Linking, loading, ELF, dan format executable
-- Konkurensi, threading, dan sinkronisasi
-- Optimasi compiler dan analisis performa
-- Interoperabilitas JNI dan NDK pada Android
-
-</details>
-
-<details>
-<summary><b>Reverse Engineering</b></summary>
-<br/>
-
-- Arsitektur ARM, ARM64, dan x86_64
-- Format DEX, Smali, dan alur eksekusi ART
-- Teknik instrumentasi dinamis dan hooking
-- Analisis protokol jaringan dan enkripsi
-- Pembuatan tool analisis kustom dengan Python
-
-</details>
-
-<details>
-<summary><b>Machine Learning</b></summary>
-<br/>
-
-- Dasar statistik, probabilitas, dan aljabar linear
-- Arsitektur CNN, Transformer, dan model generatif
-- Kuantisasi dan optimasi model untuk perangkat mobile
-- MLOps, versioning data, dan evaluasi model
-- Integrasi model ke layanan produksi
-
-</details>
-
-<details>
-<summary><b>Full-Stack and Architecture</b></summary>
-<br/>
-
-- Desain API, autentikasi, dan otorisasi
-- Pola arsitektur: layered, hexagonal, event-driven
-- Optimasi basis data, indexing, dan caching
-- Observability: logging, metrics, dan tracing
-- Strategi deployment dan otomasi CI/CD
-
-</details>
-
----
-
-### Working Together
-
-<div align="center">
-
-| Saya terbuka untuk | Keterangan |
-| :--- | :--- |
-| **Kolaborasi open source** | Tool developer, IDE, toolchain, dan utilitas sistem |
-| **Proyek software engineering** | Backend, aplikasi mobile, dan sistem otomasi |
-| **Riset dan diskusi teknis** | Reverse engineering, optimasi, dan machine learning |
-| **Mentoring ringan** | Berbagi pengalaman seputar pemrograman dan problem solving |
-
-</div>
-
----
-
 ### Frequently Asked
-
-<details>
-<summary><b>Apa maksud dari "Not Sepuh"?</b></summary>
-<br/>
-
-Istilah ini merupakan bentuk kerendahan hati. Saya masih terus belajar dan tidak menganggap diri sebagai senior yang sudah selesai belajar.
-
-</details>
 
 <details>
 <summary><b>Bahasa pemrograman apa yang paling sering dipakai?</b></summary>
@@ -389,14 +280,6 @@ Tergantung kebutuhan. C dan C++ untuk sistem dan performa, Kotlin dan Java untuk
 <br/>
 
 Ya. Silakan buka issue atau hubungi melalui kanal sosial di bawah.
-
-</details>
-
-<details>
-<summary><b>Bagaimana etika reverse engineering yang dipegang?</b></summary>
-<br/>
-
-Seluruh aktivitas ditujukan untuk riset, edukasi, interoperabilitas, dan keamanan pada sistem milik sendiri atau yang memiliki izin yang jelas.
 
 </details>
 
@@ -415,7 +298,7 @@ Seluruh aktivitas ditujukan untuk riset, edukasi, interoperabilitas, dan keamana
 ### Quote
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4500&pause=1500&color=94A3B8&center=true&vCenter=true&width=760&height=40&lines=Understand+the+layer+below.;Build+it+from+scratch.+Then+build+it+better." alt="Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4500&pause=1500&color=94A3B8&center=true&vCenter=true&width=760&height=40&lines=Thanks+for+reading+this.;Build+it+from+scratch.+Then+build+it+better." alt="Quote" />
 </div>
 
 ---
@@ -428,6 +311,6 @@ Seluruh aktivitas ditujukan untuk riset, edukasi, interoperabilitas, dan keamana
 
 [![](https://komarev.com/ghpvc/?username=arraynothere&icon=2&color=5)](https://visitcount.itsvg.in)
 
-<sub>Dibuat dan dirawat oleh Array. Semua statistik diperbarui otomatis oleh layanan pihak ketiga.</sub>
+<sub>Made by Array with Seven Rules 🕊️</sub>
 
 </div>
