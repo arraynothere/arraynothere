@@ -312,7 +312,7 @@ Boleh. Buka issue atau chat lewat sosial di bawah.
   <br/><br/>
   <img src="assets/footer.svg" width="100%" alt=""/>
   <br/><br/>
-  <img src="seven_unrow.jpg" width="230" height="110" alt="Seven"/>
+  <img src="seven_unrow.jpg" alt="Seven"/>
   <br/><br/>
     <sub>Made by Array with Seven Rules 🕊️</sub>
 </div>
