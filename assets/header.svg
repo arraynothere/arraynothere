@@ -10,6 +10,6 @@
 <circle cx="120" cy="210" r="70" fill="#6D28D9" opacity=".15"><animate attributeName="r" values="60;80;60" dur="7s" repeatCount="indefinite"/></circle>
 <text x="450" y="112" text-anchor="middle" style="font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace;font-size:68px;font-weight:800;letter-spacing:22px" fill="url(#t)">ARRAY</text>
 <line x1="330" y1="138" x2="570" y2="138" stroke="#A78BFA" stroke-opacity=".5"/>
-<text x="450" y="172" text-anchor="middle" style="font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace;font-size:18px;letter-spacing:2px" fill="#C4B5FD">Not Sepuh · Full-Stack Developer</text>
-<text x="450" y="204" text-anchor="middle" style="font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace;font-size:13px" fill="#94A3B8">Android // Linux // Windows</text>
+<text x="450" y="172" text-anchor="middle" style="font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace;font-size:18px;letter-spacing:2px" fill="#C4B5FD">Not Sepuh · Seven Cores</text>
+<text x="450" y="204" text-anchor="middle" style="font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace;font-size:13px" fill="#94A3B8">Android | Linux | Windows</text>
 </svg>
