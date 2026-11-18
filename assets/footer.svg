@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="90" viewBox="0 0 900 90">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#0d1117"/><stop offset=".5" stop-color="#2e1065"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
+<rect width="900" height="90" rx="16" fill="url(#g)"/><rect x=".5" y=".5" width="899" height="89" rx="16" fill="none" stroke="#A78BFA" stroke-opacity=".3"/>
+<text x="450" y="52" text-anchor="middle" style="font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace;font-size:15px;letter-spacing:3px" fill="#C4B5FD">BUILD IT FROM SCRATCH. THEN BUILD IT BETTER.</text></svg>
