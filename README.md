@@ -30,7 +30,7 @@
 </td>
 <td width="68%" valign="middle">
 
-Gw dev yang suka main di level bawah: low-level programming, toolchain di HP, sampai full-stack. Pola pikir gw first principles, jadi gw lebih seneng bikin tool, IDE, bot otomasi, dan aplikasi ngebut dari nol daripada cuma pakai yang udah jadi.
+Gw dev yang suka main di level bawah: low-level programming, toolchain di HP, sampai full-stack. Pola pikir gw first principles, jadi gw lebih seneng bikin tool, IDE, bot otomasi, dan aplikasi ngebut dari nol daripada cuma pakai yang udah jadi, biasanya gw memprogram sebuah aplikasi Android untuk kegunaan tertentu.
 
 </td>
 </tr>
