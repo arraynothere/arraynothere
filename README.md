@@ -3,11 +3,11 @@
   <br/><br/>
   <img src="array.jpg" width="110" height="110" style="border-radius:50%" alt="Array"/>
   <br/><br/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=860&height=50&lines=Software+Engineer;Reverse+Engineering;Machine+Learning;Full-Stack+Developer;Low-Level+%26+Toolchain+Builder;First-Principles+Thinker" alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=860&height=50&lines=Full-Stack+Developer;Website+Builder;Android+App+Developer;Tools+%26+Automation;Termux+Power+User;First-Principles+Thinker" alt="Typing SVG"/></a>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Array&color=8B5CF6&style=flat-square&label=PROFILE+VIEWS" alt="Views"/>
+  <img src="https://hits.sh/github.com/arraynothere.svg?style=flat-square&label=PROFILE+VIEWS&color=8B5CF6&labelColor=161b22" alt="Views"/>
   <img src="https://img.shields.io/badge/Status-Active%20Everyday-success?style=flat-square&logo=git&logoColor=white" alt="Status"/>
-  <img src="https://img.shields.io/badge/Environment-Android%20%2F%2F%20Linux%20%2F%2F%20Windows-6D28D9?style=flat-square&logo=linux&logoColor=white" alt="Env"/>
+  <img src="https://img.shields.io/badge/Main%20Env-Termux-6D28D9?style=flat-square&logo=termux&logoColor=white" alt="Env"/>
   <br/><br/>
   <a href="#about"><img src="assets/n_tentang.svg" alt="Tentang"/></a>
   <a href="#fokus"><img src="assets/n_fokus.svg" alt="Fokus"/></a>
@@ -30,7 +30,7 @@
 </td>
 <td width="68%" valign="middle">
 
-Gw dev yang suka main di level bawah: low-level programming, toolchain di HP, sampai full-stack. Pola pikir gw first principles, jadi gw lebih seneng bikin tool, IDE, bot otomasi, dan aplikasi ngebut dari nol daripada cuma pakai yang udah jadi, biasanya gw memprogram sebuah aplikasi Android untuk kegunaan tertentu.
+Gw ngerjain website, aplikasi Android, sama tools yang gw butuhin sendiri. Hampir semuanya gw bikin langsung di HP lewat Termux. Gw lebih suka bikin dari nol biar ngerti isinya, bukan cuma pakai yang udah jadi.
 
 </td>
 </tr>
@@ -47,9 +47,9 @@ Gw dev yang suka main di level bawah: low-level programming, toolchain di HP, sa
 | :--- | :--- |
 | **Handle** | Array |
 | **Title** | Full-Stack Developer |
-| **Bidang** | Software Engineering, Reverse Engineering, Machine Learning, System Programming |
-| **Environment** | Android, Linux, Windows |
-| **Mindset** | First principles, bikin dari nol, paham layer di bawahnya |
+| **Bidang** | Website, Android App, Tools & Automation, Reverse Engineering, Machine Learning |
+| **Environment Utama** | Termux (Android), Linux, Windows |
+| **Mindset** | Bikin dari nol, ngerti cara kerjanya |
 | **Status** | Aktif tiap hari |
 | **Lokasi** | Indonesia, West Java |
 | **Bahasa** | Bahasa Indonesia, English |
@@ -65,52 +65,53 @@ Gw dev yang suka main di level bawah: low-level programming, toolchain di HP, sa
 <tr>
 <td width="50%" valign="top">
 
-#### Software Engineering
+#### Website
 
-Bikin sistem yang rapi, modular, dan gampang dirawat. Fokus ke arsitektur, performa, testing, dan dokumentasi yang jelas dari awal sampai rilis.
+Bikin website dari frontend sampai backend. Dari landing page, dashboard, sampai API yang dipakai aplikasi lain.
 
-![Architecture](https://img.shields.io/badge/Architecture-Clean-6D28D9?style=flat-square&logo=diagrams.net&logoColor=white)
-![Design](https://img.shields.io/badge/Design-SOLID-7C3AED?style=flat-square&logo=codeigniter&logoColor=white)
-![Testing](https://img.shields.io/badge/Testing-Unit%20%2F%20Integration-8B5CF6?style=flat-square&logo=jest&logoColor=white)
-![CI](https://img.shields.io/badge/CI%2FCD-Automated-A78BFA?style=flat-square&logo=githubactions&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-#### Reverse Engineering
+#### Android App
 
-Bongkar binary, aplikasi mobile, dan protokol buat ngerti cara kerja dalamnya. Analisis statis dan dinamis, dekompilasi, patching, sampai instrumentasi runtime.
+Bikin aplikasi Android buat kebutuhan tertentu, dari yang simpel sampai yang butuh akses sistem. Build dan testing-nya juga dari HP.
 
-![Static](https://img.shields.io/badge/Analysis-Static-DC2626?style=flat-square&logo=gnubash&logoColor=white)
-![Dynamic](https://img.shields.io/badge/Analysis-Dynamic-EA580C?style=flat-square&logo=frida&logoColor=white)
-![Binary](https://img.shields.io/badge/Binary-ELF%20%2F%20PE%20%2F%20DEX-F59E0B?style=flat-square&logo=linux&logoColor=white)
-![Protocol](https://img.shields.io/badge/Protocol-Network-CA8A04?style=flat-square&logo=wireshark&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### Machine Learning
+#### Tools & Automation
 
-Bikin pipeline data, latih model, terus pasang inferensinya ke aplikasi beneran. Dari klasifikasi biasa sampai deep learning dan computer vision.
+Bikin tools buat ngebantu kerjaan sehari-hari: bot, script otomasi, CLI, sampai utilitas kecil yang gw pakai sendiri.
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-#### Systems and Toolchain
+#### Termux (Environment Utama)
 
-Bikin compiler pipeline, IDE, build system, dan toolchain di perangkat mobile. Kerjanya deket banget sama memori, proses, dan sistem operasi.
+Semua kerjaan gw jalan di Termux. Dari nulis kode, build, jalanin server, sampai deploy, semuanya lewat terminal di HP.
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=flat-square&logo=termux&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 </td>
 </tr>
@@ -152,7 +153,7 @@ Bikin compiler pipeline, IDE, build system, dan toolchain di perangkat mobile. K
 <a id="re"></a>
 <img src="assets/t_re.svg" alt="" width="100%"/>
 
-Cara gw ngerjain reverse engineering itu rapi: kumpulin info, bikin hipotesis, tes secara dinamis, terus catat hasilnya. Semua dikerjain buat riset, belajar, interoperabilitas, dan ngamanin sistem sendiri atau yang udah ada izinnya.
+Gw ngerjainnya urut: kumpulin info, bikin dugaan, tes langsung, terus catat hasilnya. Semua buat belajar, riset, dan sistem sendiri atau yang udah ada izinnya.
 
 | Bidang | Yang Dikerjain | Tools |
 | :--- | :--- | :--- |
@@ -188,7 +189,7 @@ Cara gw ngerjain reverse engineering itu rapi: kumpulin info, bikin hipotesis, t
 <a id="ml"></a>
 <img src="assets/t_ml.svg" alt="" width="100%"/>
 
-Di ML gw fokus yang praktis: data bersih, eksperimen bisa diulang, dan model yang beneran jalan di produk nyata, termasuk di perangkat yang sumber dayanya terbatas.
+Di ML gw ambil yang praktis aja: data bersih, eksperimen bisa diulang, dan model yang jalan di produk nyata, termasuk di HP.
 
 | Tahap | Yang Dikerjain | Teknologi |
 | :--- | :--- | :--- |
@@ -205,13 +206,13 @@ Di ML gw fokus yang praktis: data bersih, eksperimen bisa diulang, dan model yan
 
 | Prinsip | Artinya |
 | :--- | :--- |
-| **First Principles** | Pahami layer di bawahnya dulu sebelum pakai abstraksi di atasnya. |
-| **Build From Scratch** | Bikin ulang komponen penting itu jalan paling cepet buat bener-bener nguasain. |
-| **Performance Aware** | Ukur dulu baru optimasi, ngerti alokasi memori, hindari kerumitan yang gak perlu. |
-| **Simple Over Clever** | Kode yang gampang dibaca lebih berharga daripada trik yang susah dirawat. |
-| **Automate Everything** | Kerjaan yang diulang tiga kali layak dijadiin script, bot, atau pipeline. |
-| **Document As You Go** | Dokumentasi itu bagian dari produk, bukan tambahan di akhir. |
-| **Security By Default** | Validasi input, kecilin permukaan serangan, dan jangan simpan rahasia di repository. |
+| **First Principles** | Ngerti dasarnya dulu sebelum pakai yang udah jadi. |
+| **Build From Scratch** | Bikin ulang itu cara tercepat buat paham. |
+| **Performance Aware** | Ukur dulu baru optimasi, jangan bikin ribet yang gak perlu. |
+| **Simple Over Clever** | Kode yang gampang dibaca lebih penting daripada trik yang susah dirawat. |
+| **Automate Everything** | Kalau udah diulang tiga kali, jadiin script. |
+| **Document As You Go** | Dokumentasi ditulis sambil jalan, bukan di akhir. |
+| **Security By Default** | Validasi input dan jangan simpan rahasia di repository. |
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
@@ -220,12 +221,12 @@ Di ML gw fokus yang praktis: data bersih, eksperimen bisa diulang, dan model yan
 
 | Kategori | Deskripsi |
 | :--- | :--- |
-| **Mobile IDE and Toolchain** | Lingkungan dev yang jalan langsung di Android, lengkap sama compiler, build system, dan debugger. |
-| **Automation Bots** | Bot buat platform chat, pantau sistem, dan alur kerja otomatis berbasis event. |
-| **High-Performance Apps** | Aplikasi desktop dan mobile yang butuh performa tinggi, termasuk game LibGDX. |
-| **Backend and API** | Layanan REST dan realtime pakai Node.js, FastAPI, Laravel, plus database relasional maupun NoSQL. |
-| **Reverse Engineering Tools** | Parser format, analyzer, dan utilitas bantu buat analisis binary dan aplikasi Android. |
-| **ML-Powered Features** | Masukin model prediksi, computer vision, dan olah teks ke dalam produk. |
+| **Website** | Landing page, dashboard, dan web app lengkap sama backend dan database-nya. |
+| **Android App** | Aplikasi Android buat kegunaan tertentu, dibuat dan di-build langsung dari Termux. |
+| **Tools & Bot** | Bot, script otomasi, dan CLI buat nyelesaiin kerjaan yang berulang. |
+| **Backend & API** | REST dan realtime pakai Node.js, FastAPI, Laravel, plus database SQL maupun NoSQL. |
+| **Reverse Engineering Tools** | Parser, analyzer, dan utilitas buat bedah binary dan APK. |
+| **ML Features** | Masukin model prediksi, computer vision, dan olah teks ke produk. |
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
@@ -240,8 +241,6 @@ Di ML gw fokus yang praktis: data bersih, eksperimen bisa diulang, dan model yan
 <img src="https://streak-stats.demolab.com/?user=arraynothere&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakNum=E9D5FF&currStreakLabel=A78BFA&sideNums=C9D1D9&sideLabels=8B949E&dates=6E7681&stroke=30363d&border=30363d&hide_border=false" width="100%" alt="Streak"/>
 <br/><br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arraynothere&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=6D28D9&hide_border=true&radius=8" width="100%" alt="Contribution Graph"/>
-<br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=arraynothere&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=7&column=7" width="100%" alt="Trophies"/>
 <br/><br/>
 <a href="https://github.com/arraynothere?tab=followers"><img src="https://img.shields.io/github/followers/arraynothere?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=161b22&color=6D28D9" alt="Followers"/></a>
 <a href="https://github.com/arraynothere?tab=repositories"><img src="https://img.shields.io/github/stars/arraynothere?style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=161b22&color=7C3AED" alt="Stars"/></a>
@@ -273,7 +272,7 @@ Di ML gw fokus yang praktis: data bersih, eksperimen bisa diulang, dan model yan
 <summary><b>Bahasa pemrograman apa yang paling sering dipakai?</b></summary>
 <br/>
 
-Tergantung kebutuhan. C dan C++ buat sistem dan performa, Kotlin dan Java buat Android, Python buat ML dan otomasi, TypeScript buat web.
+Tergantung kebutuhan. JavaScript, TypeScript, dan PHP buat web, Kotlin dan Java buat Android, Python dan Bash buat tools.
 
 </details>
 
@@ -281,7 +280,7 @@ Tergantung kebutuhan. C dan C++ buat sistem dan performa, Kotlin dan Java buat A
 <summary><b>Terbuka buat kolaborasi gak?</b></summary>
 <br/>
 
-Terbuka. Tinggal buka issue atau hubungi lewat sosial di bawah.
+Boleh. Buka issue atau chat lewat sosial di bawah.
 
 </details>
 
@@ -305,7 +304,7 @@ Terbuka. Tinggal buka issue atau hubungi lewat sosial di bawah.
 
 <div align="center">
 
-<a href="https://github.com/arraynothere/NAMA_REPO/graphs/contributors"><img src="https://contrib.rocks/image?repo=arraynothere/NAMA_REPO&max=12&columns=12" alt="Contributors"/></a>
+<a href="https://github.com/arraynothere/GANTI_NAMA_REPO/graphs/contributors"><img src="https://contrib.rocks/image?repo=arraynothere/GANTI_NAMA_REPO&max=12&columns=12" alt="Contributors"/></a>
 
 </div>
 
@@ -316,7 +315,5 @@ Terbuka. Tinggal buka issue atau hubungi lewat sosial di bawah.
   <br/><br/>
   <img src="assets/footer.svg" width="100%" alt=""/>
   <br/><br/>
-  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=arraynothere&icon=2&color=5" alt="Visitors"/></a>
-  <br/>
-  <sub>Made by Array with Seven Rules 🕊️</sub>
+    <sub>Made by Array with Seven Rules 🕊️</sub>
 </div>
