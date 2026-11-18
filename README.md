@@ -304,7 +304,7 @@ Boleh. Buka issue atau chat lewat sosial di bawah.
 
 <div align="center">
 
-<a href="https://github.com/arraynothere/GANTI_NAMA_REPO/graphs/contributors"><img src="https://contrib.rocks/image?repo=arraynothere/GANTI_NAMA_REPO&max=12&columns=12" alt="Contributors"/></a>
+<a href="https://github.com/arraynothere/Anoterra/graphs/contributors"><img src="https://contrib.rocks/image?repo=arraynothere/Anoterra&max=12&columns=12" alt="Contributors"/></a>
 
 </div>
 
