@@ -178,9 +178,6 @@ Gw ngerjainnya urut: kumpulin info, bikin dugaan, tes langsung, terus catat hasi
 ```
 
 </td>
-<td width="40%" align="center" valign="middle">
-  <img src="seven_unrow.jpg" width="230" alt="Seven"/>
-</td>
 </tr>
 </table>
 
@@ -314,6 +311,8 @@ Boleh. Buka issue atau chat lewat sosial di bawah.
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4500&pause=1500&color=94A3B8&center=true&vCenter=true&width=760&height=40&lines=Thanks+for+reading+this.;Build+it+from+scratch.+Then+build+it+better." alt="Quote"/>
   <br/><br/>
   <img src="assets/footer.svg" width="100%" alt=""/>
+  <br/><br/>
+  <img src="seven_unrow.jpg" width="230" height="110" alt="Seven"/>
   <br/><br/>
     <sub>Made by Array with Seven Rules 🕊️</sub>
 </div>
