@@ -30,7 +30,7 @@
 </td>
 <td width="68%" valign="middle">
 
-Gw ngerjain website, aplikasi Android, sama tools yang gw butuhin sendiri. Hampir semuanya gw bikin langsung di HP lewat Termux. Gw lebih suka bikin dari nol biar ngerti isinya, bukan cuma pakai yang udah jadi.
+gw ngerjain website, aplikasi Android, sama tools yang gw butuhin sendiri. hampir semuanya gw bikin langsung di HP lewat Termux atau software lain kek Sketchware , AndroidIDE dan lain lain... gw lebih suka bikin dari nol biar ngerti isinya, bukan cuma pakai yang udah jadi.
 
 </td>
 </tr>
@@ -45,13 +45,13 @@ Gw ngerjain website, aplikasi Android, sama tools yang gw butuhin sendiri. Hampi
 
 | | |
 | :--- | :--- |
-| **Handle** | Array |
-| **Title** | Full-Stack Developer |
-| **Bidang** | Website, Android App, Tools & Automation, Reverse Engineering, Machine Learning |
-| **Environment Utama** | Termux (Android), Linux, Windows |
+| **Profile** | Array |
+| **Role** | Full-Stack Developer |
+| **Section** | Website, Android App, Tools & Automation, Reverse Engineering, Machine Learning |
+| **Environment** | Termux (Android), Linux, Windows |
 | **Mindset** | Bikin dari nol, ngerti cara kerjanya |
 | **Status** | Aktif tiap hari |
-| **Lokasi** | Indonesia, West Java |
+| **Location** | Indonesia, West Java |
 | **Bahasa** | Bahasa Indonesia, English |
 
 </div>
