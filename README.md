@@ -26,7 +26,7 @@
 </td>
 <td width="68%" valign="middle">
 
-gw Array. ngerjain website, aplikasi Android, sama tools buat kebutuhan sendiri. hampir semuanya gw bikin langsung di HP, lewat Termux, Sketchware, AndroidIDE dan semacamnya. gw lebih suka bikin dari nol biar ngerti isinya.
+yo! gw Array. gw ngerjain website, aplikasi Android, sama tools buat kebutuhan sendiri. hampir semuanya gw bikin langsung di HP, lewat Termux, Sketchware, AndroidIDE dan semacamnya. gw lebih suka bikin dari nol biar ngerti isinya.
 
 </td>
 </tr>
