@@ -25,6 +25,13 @@
 
 yo! gw Array. gw ngerjain website, aplikasi Android, sama tools buat kebutuhan sendiri. hampir semuanya gw bikin langsung di HP, lewat Termux, Sketchware, AndroidIDE dan semacamnya. gw lebih suka bikin dari nol biar ngerti isinya.
 
+<br/><br/>
+
+**monitoring aktif:**
+* **[Anoterra](https://github.com/arraynothere/Anoterra)** — *ini code editor GUI yg gwe buat make Python, coba aja cuma update nya palingan 1 tahun sekali 🦫*
+* **[sudotype](https://github.com/arraynothere/sudotype)** — *ini tools / library buat Typescript buat mempermudah aja gitu, cek aja*
+* **[terracl](https://github.com/arraynothere/terracl)** — *ini code editor basis CLI , ya gw bikin terinspirasi dari neovim & nano sih 🗿 klo yg ini gw buat pake RUST ye*
+
 </td>
 </tr>
 </table>
