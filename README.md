@@ -127,20 +127,6 @@ Semua kerjaan gw jalan di Termux. Dari nulis kode, build, jalanin server, sampai
 | **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat-square&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23064F8C.svg?style=flat-square&logo=cmake&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=flat-square&logo=gradle&logoColor=white) ![Make](https://img.shields.io/badge/GNU%20Make-%236D00CC.svg?style=flat-square&logo=gnu&logoColor=white) |
 | **Mobile & Android** | ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat-square&logo=androidstudio&logoColor=white) ![Termux](https://img.shields.io/badge/Termux-%23000000.svg?style=flat-square&logo=termux&logoColor=white) ![NDK](https://img.shields.io/badge/Android-NDK-%233DDC84.svg?style=flat-square&logo=android&logoColor=white) |
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
-
-<a id="bikin"></a>
-<img src="assets/t_bikin.svg" alt="" width="100%"/>
-
-| Kategori | Deskripsi |
-| :--- | :--- |
-| **Website** | Landing page, dashboard, web app lengkap sama backend-nya. |
-| **Android App** | Aplikasi Android buat kebutuhan tertentu, dibikin dan di-build dari HP. |
-| **Tools & Bot** | Bot, script otomasi, dan CLI. |
-| **Backend & API** | REST API pakai Node.js, FastAPI, atau Laravel. |
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
-
 <a id="stats"></a>
 <img src="assets/t_stats.svg" alt="" width="100%"/>
 
