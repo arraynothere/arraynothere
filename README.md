@@ -4,11 +4,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=50&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=850&height=50&lines=Array;" alt="Typing SVG"/></a>
   <br/>
   <img src="https://hits.sh/github.com/arraynothere.svg?style=flat-square&label=PROFILE+VIEWS&color=8B5CF6&labelColor=161b22" alt="Views"/>
-  <img src="https://img.shields.io/badge/Status-Active%20Everyday-success?style=flat-square&logo=git&logoColor=white" alt="Status"/>
-  <img src="https://img.shields.io/badge/Fav%20Env-Termux-6D28D9?style=flat-square&logo=termux&logoColor=white" alt="Env"/>
+  <img src="https://img.shields.io/badge/Online%20Everyday-success?style=flat-square&logo=git&logoColor=white" alt="Status"/>
   <br/><br/>
   <a href="#about"><img src="assets/n_tentang.svg" alt="Tentang"/></a>
-  <a href="#fokus"><img src="assets/n_fokus.svg" alt="Fokus"/></a>
   <a href="#stack"><img src="assets/n_stack.svg" alt="Stack"/></a>
   <a href="#stats"><img src="assets/n_stats.svg" alt="Stats"/></a>
   <a href="#kontak"><img src="assets/n_kontak.svg" alt="Kontak"/></a>
