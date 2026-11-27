@@ -10,7 +10,6 @@
   <a href="#about"><img src="assets/n_tentang.svg" alt="Tentang"/></a>
   <a href="#fokus"><img src="assets/n_fokus.svg" alt="Fokus"/></a>
   <a href="#stack"><img src="assets/n_stack.svg" alt="Stack"/></a>
-  <a href="#lagi"><img src="assets/n_lagi.svg" alt="Lagi"/></a>
   <a href="#stats"><img src="assets/n_stats.svg" alt="Stats"/></a>
   <a href="#kontak"><img src="assets/n_kontak.svg" alt="Kontak"/></a>
 </div>
