@@ -2,7 +2,7 @@
   <img src="array.jpg" width="110" height="110" alt="Array"/>
   <br/><br/>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=50&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=850&height=50&lines=Array;" alt="Typing SVG"/></a>
-  <br/>
+  <br/><br/>
   <img src="https://hits.sh/github.com/arraynothere.svg?style=flat-square&label=PROFILE+VIEWS&color=8B5CF6&labelColor=161b22" alt="Views"/>
   <img src="https://img.shields.io/badge/Online%20Everyday-success?style=flat-square&logo=git&logoColor=white" alt="Status"/>
   <br/><br/>
@@ -40,6 +40,17 @@ yo! gw Array. gw ngerjain website, aplikasi Android, sama tools buat kebutuhan s
 
 <a id="stats"></a>
 <img src="assets/t_stats.svg" alt="" width="100%"/>
+
+<div align="center">
+
+![Termux](https://img.shields.io/badge/Termux-121212?style=for-the-badge&logo=gnubash&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
 
 <div align="center">
 
