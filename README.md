@@ -1,7 +1,7 @@
 <div align="center">
   <img src="array.jpg" width="110" height="110" style="border-radius:50%" alt="Array"/>
   <br/><br/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=850&height=50&lines=Array;" alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=50&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=850&height=50&lines=Array;" alt="Typing SVG"/></a>
   <br/>
   <img src="https://hits.sh/github.com/arraynothere.svg?style=flat-square&label=PROFILE+VIEWS&color=8B5CF6&labelColor=161b22" alt="Views"/>
   <img src="https://img.shields.io/badge/Status-Active%20Everyday-success?style=flat-square&logo=git&logoColor=white" alt="Status"/>
