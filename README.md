@@ -176,17 +176,6 @@ buka buat kolaborasi, tinggal buka issue atau chat lewat sosial di bawah.
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-<a id="kontributor"></a>
-<img src="assets/t_kontributor.svg" alt="" width="100%"/>
-
-<div align="center">
-
-<a href="https://github.com/arraynothere/Anoterra/graphs/contributors"><img src="https://contrib.rocks/image?repo=arraynothere/Anoterra&max=12&columns=12" alt="Contributors"/></a>
-
-</div>
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
-
 <div align="center">
   <img src="assets/footer.svg" width="100%" alt=""/>
   <br/><br/>
