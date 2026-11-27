@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Online%20Everyday-success?style=flat-square&logo=git&logoColor=white" alt="Status"/>
   <br/><br/>
   <a href="#about"><img src="assets/n_tentang.svg" alt="Tentang"/></a>
-  <a href="#stack"><img src="assets/n_stack.svg" alt="Stack"/></a>
   <a href="#stats"><img src="assets/n_stats.svg" alt="Stats"/></a>
   <a href="#kontak"><img src="assets/n_kontak.svg" alt="Kontak"/></a>
 </div>
