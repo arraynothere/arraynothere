@@ -151,8 +151,6 @@ Semua kerjaan gw jalan di Termux. Dari nulis kode, build, jalanin server, sampai
 <br/><br/>
 <img src="https://streak-stats.demolab.com/?user=arraynothere&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakNum=E9D5FF&currStreakLabel=A78BFA&sideNums=C9D1D9&sideLabels=8B949E&dates=6E7681&stroke=30363d&border=30363d&hide_border=false" width="100%" alt="Streak"/>
 <br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arraynothere&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=6D28D9&hide_border=true&radius=8" width="100%" alt="Contribution Graph"/>
-<br/><br/>
 <a href="https://github.com/arraynothere?tab=followers"><img src="https://img.shields.io/github/followers/arraynothere?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=161b22&color=6D28D9" alt="Followers"/></a>
 <a href="https://github.com/arraynothere?tab=repositories"><img src="https://img.shields.io/github/stars/arraynothere?style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=161b22&color=7C3AED" alt="Stars"/></a>
 <a href="https://github.com/arraynothere?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Farraynothere&query=%24.public_repos&style=for-the-badge&logo=gitbook&logoColor=white&label=Public%20Repos&labelColor=161b22&color=8B5CF6" alt="Repos"/></a>
