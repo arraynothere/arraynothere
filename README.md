@@ -27,7 +27,7 @@ yo! gw Array. gw ngerjain website, aplikasi Android, sama tools buat kebutuhan s
 
 <br/><br/>
 
-**monitoring aktif:**
+**kek gini contoh nya**
 * **[Anoterra](https://github.com/arraynothere/Anoterra)** — *ini code editor GUI yg gwe buat make Python, coba aja cuma update nya palingan 1 tahun sekali 🦫*
 * **[sudotype](https://github.com/arraynothere/sudotype)** — *ini tools / library buat Typescript buat mempermudah aja gitu, cek aja*
 * **[terracl](https://github.com/arraynothere/terracl)** — *ini code editor basis CLI , ya gw bikin terinspirasi dari neovim & nano sih 🗿 klo yg ini gw buat pake RUST ye*
