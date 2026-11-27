@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="ARRAY"/>
-  <br/><br/>
   <img src="array.jpg" width="110" height="110" style="border-radius:50%" alt="Array"/>
   <br/><br/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=860&height=50&lines=Full-Stack+Developer;Website+Builder;Android+App+Developer;Tools+%26+Automation;Termux+Power+User" alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=860&height=50&lines=Full-Stack+Developer;Website+Builder;Android+App+Developer;Tools+%26+Automation;" alt="Typing SVG"/></a>
   <br/>
   <img src="https://hits.sh/github.com/arraynothere.svg?style=flat-square&label=PROFILE+VIEWS&color=8B5CF6&labelColor=161b22" alt="Views"/>
   <img src="https://img.shields.io/badge/Status-Active%20Everyday-success?style=flat-square&logo=git&logoColor=white" alt="Status"/>
@@ -143,11 +141,6 @@ Semua kerjaan gw jalan di Termux. Dari nulis kode, build, jalanin server, sampai
 | **Backend & API** | REST API pakai Node.js, FastAPI, atau Laravel. |
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
-
-<a id="lagi"></a>
-<img src="assets/t_lagi.svg" alt="" width="100%"/>
-
-**TerraCL** - editor kode berbasis CLI pakai Rust, buat Termux, Linux, dan Windows CMD. Mirip nano tapi ada nomor baris dan file tree di samping. Masih gw kerjain, rencananya gw open-source di sini.
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
