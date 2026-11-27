@@ -5,5 +5,5 @@
       <rect width="200" height="200" rx="100" ry="100" />
     </clipPath>
   </defs>
-  <image href="https://your-image-url.com" width="200" height="200" clip-path="url(#round-corners)" preserveAspectRatio="xMidYMid slice" />
+  <image href="array.jpg" width="200" height="200" clip-path="url(#round-corners)" preserveAspectRatio="xMidYMid slice" />
 </svg>
