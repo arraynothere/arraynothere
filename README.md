@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="array.jpg" width="110" height="110" style="object-fit: cover; border-radius:50%;" alt="Array"/>
+  <img src="array.jpg" width="110" height="110" style="object-fit: cover; border-radius: 20px 0px 20px 0px;" alt="Array"/>
   <br/><br/>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=50&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=850&height=50&lines=Array;" alt="Typing SVG"/></a>
   <br/>
