@@ -142,8 +142,6 @@ Semua kerjaan gw jalan di Termux. Dari nulis kode, build, jalanin server, sampai
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
-
 <a id="stats"></a>
 <img src="assets/t_stats.svg" alt="" width="100%"/>
 
