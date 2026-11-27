@@ -32,11 +32,6 @@ yo! gw Array. gw ngerjain website, aplikasi Android, sama tools buat kebutuhan s
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
-<a id="profil"></a>
-<img src="assets/t_profil.svg" alt="" width="100%"/>
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
-
 <a id="stats"></a>
 <img src="assets/t_stats.svg" alt="" width="100%"/>
 
