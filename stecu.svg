@@ -1,9 +1,0 @@
-<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://w3.org">
-  <defs>
-    <clipPath id="round-corners">
-      <!-- Change rx="100" for a circle, or rx="20" for rounded corners -->
-      <rect width="200" height="200" rx="100" ry="100" />
-    </clipPath>
-  </defs>
-  <image href="array.jpg" width="200" height="200" clip-path="url(#round-corners)" preserveAspectRatio="xMidYMid slice" />
-</svg>
