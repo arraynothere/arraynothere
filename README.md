@@ -5,7 +5,7 @@
   <br/>
   <img src="https://hits.sh/github.com/arraynothere.svg?style=flat-square&label=PROFILE+VIEWS&color=8B5CF6&labelColor=161b22" alt="Views"/>
   <img src="https://img.shields.io/badge/Status-Active%20Everyday-success?style=flat-square&logo=git&logoColor=white" alt="Status"/>
-  <img src="https://img.shields.io/badge/Main%20Env-Termux-6D28D9?style=flat-square&logo=termux&logoColor=white" alt="Env"/>
+  <img src="https://img.shields.io/badge/Fav%20Env-Termux-6D28D9?style=flat-square&logo=termux&logoColor=white" alt="Env"/>
   <br/><br/>
   <a href="#about"><img src="assets/n_tentang.svg" alt="Tentang"/></a>
   <a href="#fokus"><img src="assets/n_fokus.svg" alt="Fokus"/></a>
